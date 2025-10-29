@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Payments",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Payments"
+  },
+  "ui5AppDetails": {
+    "appId": "zpay"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_13785461DE256D44971A988D6589622AD1A5BC3A_TM",
+    "semanticObject": "Payments",
+    "action": "Payments",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_13785461DE256D44971A988D6589622AD1A5BC3A_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Payments"
+      }
+    }
+  ]
+}
